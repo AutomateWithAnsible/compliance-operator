@@ -1,0 +1,1 @@
+FROM quay.io/complianceascode/ocp4:latest
